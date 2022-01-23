@@ -1,1 +1,1 @@
-# hello-world-bootloader
+A bootloader that shows Hello World on the screen.
